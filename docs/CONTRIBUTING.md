@@ -4,7 +4,7 @@
 2. Preencha:
    - `README.md` com descrição e contexto.
    - `metadata.json` com informações estruturadas.
-   - `docs/data_dictionary.md` e `docs/version_history.md`.
+   - `docs/data_dictionary.csv` e `docs/version_history.csv`.
 3. Suba os arquivos de dados em `/data` (formato aberto, preferencialmente `.csv`).
 4. Abra um Pull Request descrevendo:
    - Origem dos dados.
