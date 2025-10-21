@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Catálogo de Dados de Novos Urbanos
+message: >-
+  Caso use algum dataset deste repositório, por favor cite-o
+  como abaixo
+type: dataset
+authors:
+  - name: Novos Urbanos
+    region: Paraíba
+    email: novosurbanoscg@gmail.com
+    country: BR
+    city: Campina Grande
+identifiers:
+  - type: url
+    value: 'https://github.com/novosurbanoscg/dados'
+repository-code: 'https://github.com/novosurbanoscg/dados'
