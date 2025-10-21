@@ -1,0 +1,41 @@
+{
+  "title": "Escolas da Rede Municipal de Campina Grande, Paraíba",
+  "description": "Geolocalização das escolas da rede municipal de Campina Grande (PB), tratados e consolidados pelo Coletivo Novos Urbanos.",
+  "version": "1.0",
+  "date_published": "2025-10-20",
+  "authors": [
+    {
+      "name": "Coletivo Novos Urbanos",
+      "affiliation": "Coletivo Novos Urbanos"
+    }
+  ],
+  "license": "CC-BY-SA-4.0",
+  "keywords": ["escolas municipais", "Campina Grande"],
+  "data_files": [
+    {
+      "path": "data/escolas-municipais-campina-grande.csv",
+      "format": "CSV",
+      "schema": [
+        { "name": "ordem", "type": "integer", "description": "Número sequencial" },
+        { "name": "tipologia", "type": "string", "description": "Tipologia da escola" },
+        { "name": "unidade", "type": "integer", "description": "Nome da escola" },
+        { "name": "endereco", "type": "date", "description": "Endereço da escola" },
+        { "name": "bairro", "type": "date", "description": "Data da contagem" },
+        { "name": "cep", "type": "date", "description": "Data da contagem" },
+        { "name": "localizacao", "type": "date", "description": "Localização em latitude e longitude agrupada" },
+        { "name": "numero_alunos", "type": "integer", "description": "Quantidade total de alunos nesta unidade" },
+        { "name": "latitude", "type": "float", "description": "Latitude" },
+        { "name": "longitude", "type": "float", "description": "Longitude" }
+      ]
+    }
+  ],
+  "source": {
+    "origin": "-- INSERIR AQUI A FONTE ORIGINAL DOS DADOS --",
+    "notes": " -- INSERIR METODO DE COLETA. Ex.: Coletados manualmente via secretaria"
+  },
+  "methods": "Tratamento: normalização de nomes de bairros.",
+  "contact": {
+    "name": "Novos Urbanos",
+    "email": "novosurbanoscg@gmail.com"
+  }
+}

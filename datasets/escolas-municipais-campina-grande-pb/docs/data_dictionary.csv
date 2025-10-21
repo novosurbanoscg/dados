@@ -1,0 +1,11 @@
+Campo;Tipo;Descrição;Exemplo
+ordem; integer; Número sequencial; 1
+tipologia; string; Tipologia da escola; CM
+unidade; integer; Nome da escola; CM CELIA MARCIA SANTOS CIRNE
+endereco; date; Endereço da escola; RUA TOME DE SOUZA S/N
+bairro; date; Data da contagem; JOSE PINHEIRO
+cep; date; Data da contagem; 58407300
+localizacao; date; Localização em latitude e longitude agrupada; -7.221393026, -35.86940292
+numero_alunos; integer; Quantidade total de alunos nesta unidade; 196
+latitude; float; Latitude; -7.221393026
+longitude; float; Longitude; -35.86940292
