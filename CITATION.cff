@@ -4,6 +4,7 @@ message: >-
   Caso use algum dataset deste repositório, por favor cite-o
   como abaixo
 type: dataset
+license: "CC-BY-SA-4.0"
 authors:
   - name: Novos Urbanos
     region: Paraíba

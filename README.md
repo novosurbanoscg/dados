@@ -13,7 +13,7 @@ Cada dataset está contido em sua própria pasta dentro de `/datasets`, com:
 Se utilizar os dados, cite conforme instruções do arquivo `CITATION.cff`.
 
 ## Licença
-Todo o conteúdo está licenciado sob [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), salvo indicação contrária em datasets específicos.
+Todo o conteúdo está licenciado sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode), salvo indicação contrária em datasets específicos.
 
 ## Contribuições
 Veja `docs/CONTRIBUTING.md` para diretrizes de contribuição e atualização de datasets.
